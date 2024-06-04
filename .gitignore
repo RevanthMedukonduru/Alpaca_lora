@@ -1,0 +1,15 @@
+out/
+7B/
+13B/
+Sentiment_Dataset/
+ckpts/
+__pycache__/
+checkpoint**
+minimal-llama**
+lora-**
+*ckpt
+wandb
+test_data.json
+todo.txt
+.venv
+.vscode

@@ -1,0 +1,5 @@
+{
+    "description": "Template used by Alpaca-LoRA for Sentiment Analysis. The model is expected to predict the sentiment of the provided text as positive (1) or negative (0).",
+    "prompt_input": "Below is an instruction that describes the task of sentiment analysis, paired with an input text. Based on the input, predict the sentiment as either positive (1) or negative (0).\n\n### Instruction:\nDetermine if the sentiment of the following text is positive or negative.\n\n### Input Text:\n{input}\n\n### Predicted Sentiment:\n",
+    "response_split": "### Predicted Sentiment:"
+}
